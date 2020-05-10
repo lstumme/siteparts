@@ -1,4 +1,4 @@
-const mongoose = require('../modules/mogodb/mogodb');
+const mongoose = require('../modules/mongodb/mongodb');
 
 const Schema = mongoose.Schema;
 

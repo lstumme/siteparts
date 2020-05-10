@@ -10,6 +10,11 @@ mongoose.connect(connection, {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true
+}).then(result => {
+    console.log('MongoDB connection OK')
+}).catch(err => {
+    console.error('MongoDB connection KO');
+    console.log(err);
 });
 
 module.exports = mongoose;
