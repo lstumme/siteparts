@@ -4,5 +4,8 @@
         "username": "",
         "password": "",
         "database": "database"
+    },
+    "server": {
+        "port": 3000
     }
 }
