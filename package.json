@@ -1,0 +1,20 @@
+{
+  "name": "siteparts",
+  "version": "1.0.0",
+  "description": "SitepParts is a set of basic fonctions that can be usefull when building new web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lstumme/siteparts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lstumme/siteparts/issues"
+  },
+  "homepage": "https://github.com/lstumme/siteparts#readme"
+}
