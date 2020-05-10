@@ -1,1 +1,8 @@
-{}
+{
+    "mongodb": {
+        "address": "localhost",
+        "username": "",
+        "password": "",
+        "database": "database"
+    }
+}
